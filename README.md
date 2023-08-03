@@ -18,3 +18,9 @@
 - we dont have to specify type of any variable and we can change variables
 ## OPEREATOR
 - there are five operators (=,+,-,*,/)
+- strings can be added with numbers and become string but cannot be miltiplied it show NaN(not a number)
+## OPERATOR SHORTHAND METHOD
+- myvar += 5
+- myvar *= 5
+- myvar -= 5
+- myvar /= 5
