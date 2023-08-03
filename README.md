@@ -17,4 +17,4 @@
 - var (variable name)
 - we dont have to specify type of any variable and we can change variables
 ## OPEREATOR
-- five operators (=,+,-,*,/)
+- there are five operators (=,+,-,*,/)
