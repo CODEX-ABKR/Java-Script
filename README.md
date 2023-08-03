@@ -24,3 +24,11 @@
 - myvar *= 5
 - myvar -= 5
 - myvar /= 5
+## WRITING MESSAGES TO CONSOLE/DOCUMENT
+- FOR WRITING ON CONSOLE
+- document.write(myvar)
+- FOR WRITING ON DOCUMENT
+- document.log(myvar)
+## BOOLEAN
+- SYNTAX
+- boolean(var)
