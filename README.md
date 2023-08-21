@@ -44,3 +44,7 @@
 ## LOGICAL OPERATORS
 - &&
 - ||
+## LOOPS
+### WHILE LOOP
+- while(condition)
+while the condition is true it will always execute the statement
