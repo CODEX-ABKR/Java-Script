@@ -32,3 +32,5 @@
 ## BOOLEAN
 - SYNTAX
 - boolean(var)
+## IF ELSE
+## ELSE IF
