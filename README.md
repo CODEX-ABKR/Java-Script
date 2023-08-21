@@ -34,3 +34,13 @@
 - boolean(var)
 ## IF ELSE
 ## ELSE IF
+## COMPARISON OPERATORS
+- < >
+- <=
+- >=
+- ==
+- ===
+- !=
+## LOGICAL OPERATORS
+- &&
+- ||
