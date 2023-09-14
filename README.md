@@ -56,4 +56,15 @@ while the condition is true it will always execute the statement
 ## BREAK AND CONTINUE
 ## FUNCTIONS
 - keyword function is used at start
-- `function function name (parameters)` 
+- `function function name (parameters)
+`
+- `return ` is also used to return value 
+#### CONSOLE.LOG()
+- `IT IS USED TO DISPLAY VALUE.`
+## NUMBERS
+- if we add a string and a number it will become string
+## NaN (NOT A NUMBER)
+- isNaN() function
+
+
+
