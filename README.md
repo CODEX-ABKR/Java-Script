@@ -48,9 +48,12 @@
 ### WHILE LOOP
 - while(condition)
 while the condition is true it will always execute the statement
-## FOR LOOPS 
+### FOR LOOPS 
 - for(age=5;age<10;age++)
 {
   statement 
 }
-# BREAK AND CONTINUE
+## BREAK AND CONTINUE
+## FUNCTIONS
+- keyword function is used at start
+- `function function name (parameters)` 
